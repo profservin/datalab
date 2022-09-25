@@ -1,6 +1,6 @@
 ##Curso Marketing Digital y Minería de datos
 ##Maestro Alejandro Servin V.1.0
-##Ejercicios 1.1 a 1.10
+##Ejercicios 1.1 a 1.11
 
 #Ejercicio 1.1 - Realiza las siguientes cuatro operaciones matemáticas
 
