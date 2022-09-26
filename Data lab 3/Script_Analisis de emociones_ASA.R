@@ -1,5 +1,5 @@
 
-# Paso 1: Cargar paquetes
+# Paso 1: Cargar paquetes (ojo, en algunos casos se deben instalar primero las librerías)
 library(tidyverse)
 library(syuzhet)
 library(tidytext)
