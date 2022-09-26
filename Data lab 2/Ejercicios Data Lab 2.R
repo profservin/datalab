@@ -17,11 +17,11 @@ library(githubinstall)
 
 install.packages("devtools")
 library(devtools)
-
 devtools::install_github("kosukeimai/qss-package",  build_vignettes = TRUE)
 
 library("qss")
 
+install.packages("tidyverse")
 library(tidyverse)
 
 #Ejercicio 1.4. - Guarda el resultado de la suma como un objeto llamado "resultado"
