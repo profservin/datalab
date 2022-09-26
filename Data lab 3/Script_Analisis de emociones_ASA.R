@@ -23,6 +23,7 @@ text.df <- tibble(text = str_to_lower(IG_data$Text))
 # Paso 3: Analizar sentimientos con NRC
 #Español: emotions <- get_nrc_sentiment(text.df$text, lang="spanish")
 #Inglés: emotions <- get_nrc_sentiment(text.df$text)
+
 emo_bar <- colSums(emotions)
 emo_sum <- data.frame(count=emo_bar, emotion=names(emo_bar))
 
