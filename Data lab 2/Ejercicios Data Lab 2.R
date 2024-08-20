@@ -1,4 +1,4 @@
-##Curso Marketing Digital y Minería de datos
+##Comunicación y esfuerzos comerciales
 ##Maestro Alejandro Servin V.1.0
 ##Ejercicios 1.1 a 1.11
 
