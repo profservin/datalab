@@ -56,3 +56,10 @@ library(tidytext)
 library(tidyverse)
 
 write.table(df, file="wordcloud_combinadotijuana.csv",sep=",")
+
+#Paso 14: Evidencia tu trabajo - Crea un objeto utilizando tu nombre de pila (en minísculas) y tu profesión. Después tu nombre_apellido con tu matrícula
+alex <- "empresario y profesor"
+alex_servin <- "990991"
+
+#Paso 5: Muestra en dónde está guardado du trabajo
+getwd()                               
