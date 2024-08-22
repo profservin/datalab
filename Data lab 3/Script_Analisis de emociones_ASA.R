@@ -40,3 +40,10 @@ ggplot(data=emo_sum,aes(x=sentiment,y=Score))+geom_bar(aes(fill=sentiment),stat 
 
 #Paso 5: Exportar visualización
 ggsave("Análisis_emociones.png", width = 68, height = 38, units = "cm")
+
+#Paso 6: Evidencia tu trabajo - Crea un objeto utilizando tu nombre de pila (en minísculas) y tu profesión. Después tu nombre_apellido con tu matrícula
+alex <- "empresario y profesor"
+alex_servin <- "990991"
+
+#Paso 7: Muestra en dónde está guardado du trabajo
+getwd()
