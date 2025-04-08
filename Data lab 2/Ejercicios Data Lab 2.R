@@ -19,7 +19,8 @@ install.packages("devtools")
 library(devtools)
 devtools::install_github("kosukeimai/qss-package",  build_vignettes = TRUE)
 
-library("qss")
+install.packages("qss")
+library(qss)
 
 install.packages("tidyverse")
 library(tidyverse)
