@@ -1,4 +1,4 @@
-##Comunicación y esfuerzos comerciales
+##Ciencia de datos y analítica cultural
 ##Maestro Alejandro Servin V.1.0
 ##Ejercicios 1.1 a 1.11
 
